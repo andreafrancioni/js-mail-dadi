@@ -5,3 +5,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#login{
+ position: absolute!important;
+ top: 50%;
+ transform: translate(-50%, -50%);
+ left: 50%;
+
+}
+
+#form{
+    height: 20rem;
+}
+
+/* COLORS */
+.bg-grey {background-color: #7777!important;}
